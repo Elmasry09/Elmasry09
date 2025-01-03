@@ -5,12 +5,11 @@
 </a>
 <br>
 <ul>
-<li>🏫: I’m a Junior at Faculty of Information Technology at Borg Al Arab Technological Universty.</li>
 <li>🔭: I’m currently working on many small web projects.</li>
+<li>👨‍💻 All of my projects are unavailable for now.</li>
 <li>🌱: I’m currently learning Information Technology and Software Engineering. 💻</li>
 <li>🤔: I’m looking for help with anything I am currently learning! 😅</li>
 <li>💬: Ask me about Front-End - Back-End. 📈🤖🧠</li>
-<li>🧐: Always thinking learning new things!. 📖🔍</li>
 <li>⚡  Fun fact: I play Soccer! ⚽</li>
 </ul>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
