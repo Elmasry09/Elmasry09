@@ -7,7 +7,7 @@
 <ul>
 <li>🔭: I’m currently working on many small web projects.</li>
 <li>👨‍💻 All of my projects are unavailable for now.</li>
-<li>🌱: I’m currently learning Information Technology and Software Engineering. 💻</li>
+<li>🌱: I’m currently learning Devops and Microservices 💻</li>
 <li>🤔: I’m looking for help with anything I am currently learning! 😅</li>
 <li>💬: Ask me about Front-End - Back-End. 📈🤖🧠</li>
 <li>⚡  Fun fact: I play Soccer! ⚽</li>
