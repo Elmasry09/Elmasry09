@@ -18,9 +18,6 @@
 </a><p align="center"><a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344">
 	</a><a href="mailto:ahmedelmasary1079@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 	<a href="https://github.com/Elmasry09"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-	<a href="https://wa.me/0201156901019"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&amp;logo=whatsapp&amp;logoColor=white" alt="Whatsapp"></a>
-	<a href="#"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
-	<a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
 </p>
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
