@@ -1,7 +1,8 @@
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=7AF79A&amp;size=30&amp;lines=Hey!+It's+Ahmad!;I'm+a+Full+Stack+Developer...;" alt="Typing SVG"></a></p>
 <h2 id="-about-me"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me</h2>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<!--   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> -->
+	<li>:credit_card: My full name is <strong>Shourya Sharma</strong> <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"></li>
 </a>
 <br>
 <ul>
