@@ -2,7 +2,7 @@
 <h2 id="-about-me"><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me</h2>
 <a target="_blank" align="center">
 <!--   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> -->
-<li> <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"></li>
+<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right">
 </a>
 <br>
 <ul>
